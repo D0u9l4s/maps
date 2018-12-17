@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>São Pedro Frio - Caminho de aventura</name>
+    <description>Visita Cachoeira, Rampa, São Pedro Frio, Colatina/ES</description>
+    <NetworkLink>
+      <name>São Pedro Frio - Caminho de aventura</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1EklqVrYvC44Pxbl3X0KadMck9ws]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
